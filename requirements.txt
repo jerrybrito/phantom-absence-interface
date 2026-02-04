@@ -1,0 +1,2 @@
+# Requires: unlikely-paradox
+# (Not available on PyPI)
